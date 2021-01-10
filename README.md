@@ -3,7 +3,7 @@
 This repository contains the replication package for our study about identifying bots in social coding platforms submitted to JSS journal (*"A ground-truth dataset and classification model for detecting bots in GitHub issue and PR comments"*). A link to the paper will be added to this README as soon as the paper is accepted for publication.
 
 ## Ground-truth dataset
-The ground-truth dataset is available on Zenodo: http://doi.org/10.5281/zenodo.3626071
+The ground-truth dataset is available on Zenodo: http://doi.org/10.5281/zenodo.4000388
 
 ## The BoDeGHa Tool
 The BoDeGHa tool is available on GitHub: https://github.com/mehdigolzadeh/BoDeGHa
